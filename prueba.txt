@@ -1,2 +1,5 @@
 esto es una prueba...
+<<<<<<< HEAD
 11111
+=======
+>>>>>>> d97cc9ca627136123931aeab2c06ef9000d588a8
